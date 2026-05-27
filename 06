@@ -1,0 +1,5 @@
+ let palavra1 = prompt("Digite uma palavra:");
+  let palavra2= prompt("Digite outra palavra:");
+
+  alert("Olá, Sua palavra um:  " + palavra1 + " e sua palavra 2 " + palavra2 + ", são bonitas!");
+    
