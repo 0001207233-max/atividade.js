@@ -1,0 +1,5 @@
+let numero1 = Number(prompt("Digite um número..."));
+ 
+
+    let multiplicacao= numero1*2;
+    alert("A multiplicação do número é: " + multiplicacao);
