@@ -1,0 +1,7 @@
+let numero1 = Number(prompt("Quantos pedaços de pizza consumiu?"));
+    let numero2 = Number(prompt("Quantos copos de bebidas consumiu?"));
+
+    let soma= numero1 + numero2;
+    alert("A quantidade de pizza consumida " + numero1 + " e bebida " + numero2 + " foi " + soma);
+    alert("A soma dos número é: ${numero1} e ${numero2} = ${soma}");
+    
