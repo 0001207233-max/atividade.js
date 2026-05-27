@@ -1,0 +1,5 @@
+ let numero1 = Number(prompt("Qual a sua idade atual?"));
+    let numero2 = 10
+
+    let soma= numero1 + numero2;
+    alert("Sua idade atual " + numero1 + " daqui há 10 anos é " + soma);
