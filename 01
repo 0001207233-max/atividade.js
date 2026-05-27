@@ -1,0 +1,6 @@
+ let numero1 = Number(prompt("Digite um número"));
+    let numero2 = Number(prompt("Digite outro número"));
+
+    let soma= numero1 + numero2;
+    alert("A soma dos números é: " + numero1 + " + " + numero2 + " = " + soma);
+    alert("A soma dos número é: ${numero1} e ${numero2} = ${soma}");
